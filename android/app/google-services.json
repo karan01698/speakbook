@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "790646419125",
+    "project_id": "speakbook-6474b",
+    "storage_bucket": "speakbook-6474b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790646419125:android:367ca0a7f92d55afc698fc",
+        "android_client_info": {
+          "package_name": "speakbook.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJXXMnORQxs34nCqBC0400H28SrB1NqEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
